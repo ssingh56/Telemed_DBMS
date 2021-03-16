@@ -6,6 +6,7 @@ Telemedicine Database Management System will be leveraging the concept of teleme
 
 
 Designed Solution
+
 • All the AMA registered doctors who are willing to work with our organization will connect with our system.
 • The customers will be patients who will register themselves on our system to get consultations from doctor at their doorstep.
 • Chemists in an area will also sign up with our system.
